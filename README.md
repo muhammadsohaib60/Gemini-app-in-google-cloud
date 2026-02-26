@@ -1,4 +1,4 @@
-# Gemini-app-in-google-cloud
+#Automated Email Marketing, Tracking, and Call Script Generation with Google Apps Script
 
 
 
